@@ -1,0 +1,1 @@
+# TODO: Fix Update Sampah Feature\n\n## Status: [ ] In Progress\n\n### Step 1: Update AdminController [ ]\n- Add recentTrashId to all view methods\n\n### Step 2: Edit 4 Blade Files [ ]\n- Update sidebar 'Update Data' href\n\n### Step 3: Clear Cache [ ]\n### Step 4: Test from informasi.blade.php [ ]\n### Step 5: Complete ✅\n
